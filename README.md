@@ -7,7 +7,7 @@
   - Think of Frodo as the syllabus
   - Think of Udemy as the textbook
   - Your main goals every week should be completing the projects, and understanding the objectives of the projects. 
-  - In the standups each week we will build projects that mirror the unit projects, the goal being to teach and review everything you'll need each week in live standup instruction.
+  - In the standups each week we will build projects that mirror the unit projects, the goal being to teach and review all the core content each week in live standup instruction.
 - How to Navigate Frodo in Specs
 - How to navigate Udemy
 - Unit Projects overview (what they can expect)
