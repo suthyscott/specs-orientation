@@ -7,12 +7,13 @@
   - Think of Frodo as the syllabus
   - Think of Udemy as the textbook
   - Your main goals every week should be completing the projects, and understanding the objectives of the projects. 
+  - In the standups each week we will build projects that mirror the unit projects, the goal being to teach and review everything you'll need each week in live standup instruction.
 - How to Navigate Frodo in Specs
 - How to navigate Udemy
 - Unit Projects overview (what they can expect)
   - only the unit projects are graded. There will be projects in the udemy course and we highly encourage you to complete them all, but they are not required. 
-  - each project is organized into 5 parts, so you should shoot to complete a part every day. 
-  - moving faster than that is cool, but you don't want to fall behind. If you finish early I can supply bonus content. 
+  - each project is organized into approximately 5 parts, so you should shoot to complete a part every day. 
+  - moving faster than that is cool, but you don't want to fall behind. If you finish early I can supply bonus content. **If you start to fall behind or don't finish the unit project on time, tell me as soon as possible.**
   - each project has an MVP, Code requirements and objectives. Pay attention to this, go over them before and after doing each project. This is a pattern you'll need to replicate for your capstone. 
   - There is a solution file. Obviously use it with descretion, but it's there for a reason. 
 - Queue
