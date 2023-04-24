@@ -1,6 +1,7 @@
 # specs-orientation
 
 - Morning/Evening standups/reviews
+  - Attendance is taken based on who has cameras on when the meeting starts. Message me at the beginning of the standup if you are unable to have your camera on.
 - How to navigate Specs Discord
 - The structure of specs:
   - Think of tech leads as your professors
