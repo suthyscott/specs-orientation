@@ -20,3 +20,5 @@
 - Queue
   - It's really important to struggle and really try yourself before getting help. 
   - We WANT you to use the queue. The template is absolutely not meant to be a deterrant. But it's vital that you develop independent debugging and learning skills during the course. 
+- AI tools (ChatGPT, GitHub Co-pilot)
+  - These tools are super useful and we encourage you to use them, but make sure they are not replacing your learning! Use them for debugging and learning/understanding new concepts, but never use them to write code for you.
