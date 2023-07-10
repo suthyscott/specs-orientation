@@ -2,6 +2,9 @@
 
 - Morning/Evening standups/reviews
   - Attendance is taken based on who has cameras on when the meeting starts. Message me at the beginning of the standup if you are unable to have your camera on.
+  - Morning: we'll go around and ask "what's your status?" and "what are your goals for the day?" (you should have at least one goal.
+  - EoD: "what did you accomplish today?" and if you got blocked on anything.
+  - Don't hesitate to say if you're stuck on anything, just like you'll need to in the field. 
 - How to navigate Specs Discord
 - The structure of specs:
   - Think of tech leads as your professors
